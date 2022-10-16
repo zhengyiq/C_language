@@ -1,0 +1,3 @@
+﻿  结构体.c
+e:\桌面转移\cpp\c++\c_language\c_01\c_06 结构体\结构体.c(29): warning C4305: “初始化”: 从“double”到“float”截断
+  C_06 结构体.vcxproj -> E:\桌面转移\CPP\C++\C_language\C_01\Debug\C_06 结构体.exe
